@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="pet_list">
+        <li>Tails (Rat)</li>\n
+        <li>Chai (Dog)</li>\n
+        <li>Mist (Dog)</li>\n
+        <li>Pierogi and Dumpling (Rats)</li>\n
+    </string>
+</resources>
